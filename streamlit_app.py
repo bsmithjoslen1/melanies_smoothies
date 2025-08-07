@@ -42,4 +42,4 @@ if ingredients_list:
     #st.write(my_insert_stmt)
 
 
-        st.success('Your Smoothie is ordered, ' + name_on_order + '!', icon="âœ…")
+        st.success('Your Smoothie is ordered, ' + name_on_order + '!')
